@@ -1,7 +1,7 @@
 # Global-Gesture-Translate-Using-CNN
 
 ## Overview
-This project focuses on improving communication for the deaf and mute community by developing an advanced hand gesture recognition and translation system. Leveraging Convolutional Neural Networks (CNNs) and Graph Neural Networks (GNNs), the system identifies hand gestures and translates them into multiple languages, offering customizable language options and accessibility features such as text-to-speech.
+This project focuses on improving communication for the deaf and mute community by developing an advanced hand gesture recognition and translation system. Leveraging Convolutional Neural Networks (CNNs), the system identifies hand gestures and translates them into multiple languages, offering customizable language options and accessibility features such as text-to-speech.
 
 ## Features
 * **Accurate Gesture Recognition:** Utilizes CNNs to extract meaningful features from hand gesture videos or images for accurate interpretation.
